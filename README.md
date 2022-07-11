@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I rather stay up super late than waking up early, But I'm trying ot be a normal person now and wake at 8am everyday. \m/
 
 
-<iframe src="https://embed.lottiefiles.com/animation/6893"></iframe>
+https://lottiefiles.com/6893-pulp-fiction-cat
